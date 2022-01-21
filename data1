@@ -1,0 +1,7 @@
+[Update]
+version="0"
+[Links]
+urlFreeGames="https://developer.android.com/ndk/downloads"
+urlAppAndroid="https://developer.android.com"
+[Android update exceptions range]
+1.0-4.3
